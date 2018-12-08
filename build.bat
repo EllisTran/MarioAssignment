@@ -1,0 +1,1 @@
+javac Game.java CoinBlock.java Brick.java Sprite.java Controller.java Json.java Mario.java Model.java View.java Coin.java
